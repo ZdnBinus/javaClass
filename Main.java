@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		/*
-		 * variable switch
+		 * variable switch, saling nuker isi dari x dan y
 		String x = "air";
 		String y = "teh";
 		String temp;
