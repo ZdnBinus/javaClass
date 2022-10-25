@@ -1,0 +1,74 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//booelan
+		//boolean x;
+		
+		//compare sesuatu tanpa boolean
+//		int x = 10;
+//		int y = 5;
+		
+		//operator compare/membandingkan
+		//>, >=, <, <=, ==, !=,||(atau), &&(dan)
+		//System.out.println(x+1 != 9);
+		
+		//Scanner
+		
+		//manggil/summon fungsi scanner
+//		Scanner scan = new Scanner(System.in);
+//		
+//		System.out.println("Masukan kalimat \t");
+//		String x = scan.nextLine();
+//		
+//		System.out.println(x);
+		
+		// if - else, 
+		
+//		int x = 6;
+//		if(x > 10) {
+//			System.out.println("anda boleh masuk");
+//		
+//		}else if (x < 10 && x > 5) {
+//			System.out.println("masuk dengan ortu");
+//		}
+//		
+//		else {
+//			System.out.println("tidak boleh masuk");
+//		}
+		
+		//switch
+		
+		int x;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("masukan input: ");
+		x = scan.nextInt();
+		switch (x) {
+		case 1: System.out.println("case 1");
+			break;
+		case 2: System.out.println("case 2");
+		break;
+		
+
+		default:
+			break;
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
